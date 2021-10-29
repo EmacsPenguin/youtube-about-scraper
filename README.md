@@ -1,2 +1,2 @@
 # youtube-about-scraper
-Scrapes the about section of youtube channel.
+a snippit of code that scrapes the about section of youtube channel.
